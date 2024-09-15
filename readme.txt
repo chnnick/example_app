@@ -1,4 +1,2 @@
-HELLO 
-HELLO
-WHATTT
+I love git!
 
